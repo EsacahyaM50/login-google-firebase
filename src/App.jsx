@@ -16,6 +16,7 @@ function App() {
 
   return (
     <div className="App">
+        <h1><marquee>Aplikasi by Esa</marquee></h1>
         <button onClick={loginGoogle}>Login</button>
     </div>
   )
